@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá! 👋🏽
+
+**You can call me "Leo"**
+• Lecturer of Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫 🧑🏽‍💻
+• I'm from 🇧🇷 living in 🇬🇧 
+• Fun facts: I play the ukulele, bake bread, and like [Incineroar in Smash Ultimate](https://en.wikipedia.org/wiki/Characters_in_the_Super_Smash_Bros._series)
+• Pronouns: **He/Him**
+
+Find out more and get in touch: [**leouieda.com**](https://www.leouieda.com)
+
+![](https://www.leouieda.com/images/banner/valley-of-fire.jpg)
 
 <!--
 **leouieda/leouieda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
