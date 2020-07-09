@@ -5,8 +5,7 @@
 • I'm from 🇧🇷 living in 🇬🇧 
 • Fun facts: I play the ukulele, bake bread, and like [Incineroar in Smash Ultimate](https://en.wikipedia.org/wiki/Characters_in_the_Super_Smash_Bros._series)
 • Pronouns: **He/Him**
-
-Find out more and get in touch: [**leouieda.com**](https://www.leouieda.com)
+• Find out more and get in touch: [**leouieda.com**](https://www.leouieda.com)
 
 ![](https://github.com/leouieda/leouieda/raw/master/valley-of-fire.jpg)
 
