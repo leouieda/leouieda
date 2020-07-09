@@ -8,7 +8,7 @@
 
 Find out more and get in touch: [**leouieda.com**](https://www.leouieda.com)
 
-![](https://www.leouieda.com/images/banner/valley-of-fire.jpg)
+![](https://github.com/leouieda/leouieda/raw/master/valley-of-fire.jpg)
 
 <!--
 **leouieda/leouieda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
