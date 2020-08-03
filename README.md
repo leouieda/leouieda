@@ -1,25 +1,11 @@
 ### Olá! 👋🏽
 
 **You can call me "Leo"**
-• Lecturer of Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫 🧑🏽‍💻
-• I'm from 🇧🇷 living in 🇬🇧 
-• Fun facts: I play the ukulele, bake bread, and like [Incineroar in Smash Ultimate](https://en.wikipedia.org/wiki/Characters_in_the_Super_Smash_Bros._series)
 • Pronouns: **He/Him**
+• Lecturer of Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫
+• Head of the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/) 🧑🏽‍💻
+• I'm from 🇧🇷 living in 🇬🇧 
+• Fun facts: I play the ukulele, bake bread, and really like [Incineroar in Smash Ultimate](https://en.wikipedia.org/wiki/Characters_in_the_Super_Smash_Bros._series)
 • Find out more and get in touch: [**leouieda.com**](https://www.leouieda.com)
 
-![](https://github.com/leouieda/leouieda/raw/master/valley-of-fire.jpg)
-
-<!--
-**leouieda/leouieda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Photo of me looking down into the Valley of Fire state park in Nevada, USA](https://github.com/leouieda/leouieda/raw/master/valley-of-fire.jpg)
