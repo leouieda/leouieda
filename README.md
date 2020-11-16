@@ -2,9 +2,9 @@
 
 **You can call me "Leo"**
 • Pronouns: **He/Him**
-• Lecturer of Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫
+• Lecturer in Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫
 • Head of the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/) 🧑🏽‍💻
-• Core developer on [Fatiando a Terra](https://github.com/fatiando/) and the [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools)
+• Core developer of [Fatiando a Terra](https://github.com/fatiando/) and the [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools)
 • Topic Editor for the [Journal of Open Source Software (JOSS)](https://joss.theoj.org)
 • I'm from 🇧🇷 living in 🇬🇧 
 • Trivia: I play the ukulele, bake bread, and favour [Incineroar in Smash Ultimate](https://en.wikipedia.org/wiki/Characters_in_the_Super_Smash_Bros._series)
