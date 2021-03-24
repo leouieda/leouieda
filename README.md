@@ -10,4 +10,4 @@
 
 Find out more and get in touch: [**leouieda.com**](https://www.leouieda.com)
 
-![Photo of me looking down into the Valley of Fire state park in Nevada, USA](https://github.com/leouieda/leouieda/raw/master/valley-of-fire.jpg)
+![Photo of me looking down into the Valley of Fire state park in Nevada, USA](https://github.com/leouieda/leouieda/raw/main/valley-of-fire.jpg)
