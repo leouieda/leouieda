@@ -15,7 +15,7 @@ Lecturer in Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/e
 
 ---
 
-## Here are some of things I make
+## Here are some of the things I make
 
 </div>  
   
