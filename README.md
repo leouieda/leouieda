@@ -19,10 +19,9 @@ Lecturer in Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/e
 ### Software
 
 * [Fatiando a Terra](https://github.com/fatiando/) - Several different projects related to geophysics and Python development
-* [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - My involvement in GMT has decreased significantly since coming to the UK but I'm still doing things once in a while
+* [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - Created [PyGMT](https://www.pygmt.org) but my involvement has decreased significantly since coming to the UK
 * [Nēnē](https://github.com/leouieda/nene) - A no-frills static site generator that I use to make [leouieda.com](https://www.leouieda.com) and [compgeolab.org](https://www.compgeolab.org/)
 * [Tesseroids](https://github.com/leouieda/tesseroids) - Forward modeling of gravity fields in spherical coordinates
-* [Padeiro](https://github.com/leouieda/padeiro) - The sourdough bread baker's assistant (very early stages)
 
 ### Teaching
 
