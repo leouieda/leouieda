@@ -4,7 +4,7 @@
 
 **Call me "Leo"**
 • Pronouns: **He/Him**
-• From 🇧🇷 living in 🇬🇧
+• From Brazil 🇧🇷 living in the UK 🇬🇧
 • [**www.leouieda.com**](https://www.leouieda.com)
   
 Lecturer in Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫
