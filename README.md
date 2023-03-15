@@ -1,45 +1,29 @@
 <div align="center">
   
-# Olá! 👋🏽
-
-**Call me "Leo"**
-• Pronouns: **He/Him**
-• From Brazil 🇧🇷 living in the UK 🇬🇧
-• [**www.leouieda.com**](https://www.leouieda.com)
+# Olá! 👋🏽 — **Call me "Leo"** (pronouns: **he/him**)
   
-Lecturer in Geophysics @ [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/) 👨🏽‍🏫
-• Head of the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/) 🧑🏽‍💻
-
-![Teaching a git and GitHub workshop at the AGU 2019 Fall Meeting](https://github.com/leouieda/leouieda/raw/main/teaching-git-at-agu2019.jpg)
-
-## Some things I make
-
 </div>  
+
+I'm Lecturer in Geophysics at the [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/)
+where I lead the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/).
   
-### Software
-
+Personal website: [**www.leouieda.com**](https://www.leouieda.com)
+  
+  
+## Current work
+  
 * [Fatiando a Terra](https://github.com/fatiando/) - Several different projects related to geophysics and Python development
-* [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - Created [PyGMT](https://www.pygmt.org) but my involvement has decreased significantly since coming to the UK
+* [CompGeoLab](https://www.compgeolab.org/) - Open-science research group in modelling potential field data
+* [xlandsat](https://github.com/compgeolab/xlandsat) - A Python package for handling Landsat scenes from EarthExplorer with xarray
 * [Nēnē](https://github.com/leouieda/nene) - A no-frills static site generator that I use to make [leouieda.com](https://www.leouieda.com) and [compgeolab.org](https://www.compgeolab.org/)
+
+## Past work
+
+* [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - Created [PyGMT](https://www.pygmt.org) but my involvement has decreased significantly since coming to the UK
 * [Tesseroids](https://github.com/leouieda/tesseroids) - Forward modeling of gravity fields in spherical coordinates
+* [PINGA Lab](https://github.com/pinga-lab/) - Research group for inverse problems in geophysics which I helped establish
 
-### Teaching
+## Misc
 
-* [Global geophysics of the lithosphere](https://github.com/leouieda/lithosphere) - Lectures and Jupyter notebooks for an introduction to lithosphere dynamics 
-* [Remote sensing](https://github.com/leouieda/remote-sensing) - Introduction to remote sensing with Python
-* [Gravity data processing](https://github.com/leouieda/gravity-processing) - Short lesson on processing ground survey gravimetry data
-* [Introduction to machine learning](https://github.com/leouieda/ml-intro) - A very brief hands-on introduction to machine learning
-* [Marking rubrics](https://github.com/leouieda/marking-rubrics) - HTML ready rubrics for reports, coding assignments, and Jupyter notebooks based on the UK marking scheme
-* [Global temperature data](https://github.com/leouieda/global-temperature-data) - Global country-average temperature time-series data for teaching data science
-
-### Templates
-
-* [Peer-review template](https://github.com/leouieda/peer-review) - Structure and checklist I use when reviewing scientific papers
 * [HTML slide template](https://github.com/leouieda/talk-template) - reveal.js template I use for my slides
 * [Academic CV in LaTeX](https://github.com/leouieda/cv) - LaTeX template for my full academic CV (including my own extended CV)
-
-### Misc
-
-* [Source code for my website](https://github.com/leouieda/website)
-* [My dotfiles](https://github.com/leouieda/dotfiles)
-* [Bread recipes](https://github.com/leouieda/bread)
