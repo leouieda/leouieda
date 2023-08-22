@@ -4,7 +4,7 @@
   
 </div>  
 
-I'm Lecturer in Geophysics at the [University of Liverpool](https://www.liverpool.ac.uk/environmental-sciences/staff/leonardo-uieda/)
+I'm Professor of Geophysics at [Universidade de São Paulo](https://www.iag.usp.br/)
 where I lead the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/).
   
 Personal website: [**www.leouieda.com**](https://www.leouieda.com)
