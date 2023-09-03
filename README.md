@@ -19,7 +19,7 @@ Personal website: [**www.leouieda.com**](https://www.leouieda.com)
 
 ## Past work
 
-* [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - Created [PyGMT](https://www.pygmt.org) but my involvement has decreased significantly since coming to the UK
+* [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - Created [PyGMT](https://www.pygmt.org) but my involvement has decreased significantly since 2019
 * [Tesseroids](https://github.com/leouieda/tesseroids) - Forward modeling of gravity fields in spherical coordinates
 * [PINGA Lab](https://github.com/pinga-lab/) - Research group for inverse problems in geophysics which I helped establish
 
