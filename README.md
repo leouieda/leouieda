@@ -24,5 +24,6 @@
 
 ## Misc
 
+* [Landsat Wallpapers](https://github.com/leouieda/landsat-wallpapers) - Beautiful wallpapers made with Landsat remote-sensing data 
 * [HTML slide template](https://github.com/leouieda/talk-template) - reveal.js template I use for my slides
 * [Academic CV in LaTeX](https://github.com/leouieda/cv) - LaTeX template for my full academic CV (including my own extended CV)
