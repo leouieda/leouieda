@@ -1,14 +1,15 @@
 <div align="center">
   
 # Olá! 👋🏽 — **I'm Leo**
-  
+
+Pronous: He / Ele / Él
+<br>
+Professor of Geophysics at <a href="https://www.iag.usp.br/">Universidade de São Paulo</a>
+<br>
+<a href="https://www.leouieda.com">www.leouieda.com</a>
+• <a href="https://www.compgeolab.org">www.compgeolab.org</a>
+
 </div>
-<table>
-  <tr><td align="right"><b>Job</b></td><td>Professor of Geophysics at <a href="https://www.iag.usp.br/">Universidade de São Paulo</a></td></tr>
-  <tr><td align="right"><b>Pronous</b></td><td>He / Ele / Él</td></tr>
-  <tr><td align="right"><b>Personal website</b></td><td><a href="https://www.leouieda.com">www.leouieda.com</a></td></tr>
-  <tr><td align="right"><b>Research group</b></td><td><a href="https://www.compgeolab.org">www.compgeolab.org</a></td></tr>
-</table>
   
 ## Current
   
