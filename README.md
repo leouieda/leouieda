@@ -12,10 +12,10 @@ Professor of Geophysics at <a href="https://www.iag.usp.br/">Universidade de Sã
 </div>
   
 ## Current
-  
+
+* [CompGeoLab](https://github.com/compgeolab) - Research group solving geophysical inverse problems through computing
 * [Fatiando a Terra](https://github.com/fatiando/) - Several different projects related to geophysics and Python development
 * [xlandsat](https://github.com/compgeolab/xlandsat) - A Python package for handling Landsat scenes from EarthExplorer with xarray
-* [Nēnē](https://github.com/leouieda/nene) - A no-frills static site generator that I use to make [leouieda.com](https://www.leouieda.com) and [compgeolab.org](https://www.compgeolab.org/)
 
 ## Past
 
@@ -28,3 +28,4 @@ Professor of Geophysics at <a href="https://www.iag.usp.br/">Universidade de Sã
 * [Landsat Wallpapers](https://github.com/leouieda/landsat-wallpapers) - Beautiful wallpapers made with Landsat remote-sensing data 
 * [HTML slide template](https://github.com/leouieda/talk-template) - reveal.js template I use for my slides
 * [Academic CV in LaTeX](https://github.com/leouieda/cv) - LaTeX template for my full academic CV (including my own extended CV)
+* [Nēnē](https://github.com/leouieda/nene) - A no-frills static site generator that I use to make [leouieda.com](https://www.leouieda.com) and [compgeolab.org](https://www.compgeolab.org/)
