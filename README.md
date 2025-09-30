@@ -15,13 +15,13 @@ Professor of Geophysics at <a href="https://www.iag.usp.br/">Universidade de Sã
 
 * [CompGeoLab](https://github.com/compgeolab) - Research group solving geophysical inverse problems through computing
 * [Fatiando a Terra](https://github.com/fatiando/) - Several different projects related to geophysics and Python development
-* [xlandsat](https://github.com/compgeolab/xlandsat) - A Python package for handling Landsat scenes from EarthExplorer with xarray
 
 ## Past
 
 * [Generic Mapping Tools (GMT)](https://github.com/GenericMappingTools) - Created [PyGMT](https://www.pygmt.org) but my involvement has decreased significantly since 2019
-* [Tesseroids](https://github.com/leouieda/tesseroids) - Forward modeling of gravity fields in spherical coordinates
 * [PINGA Lab](https://github.com/pinga-lab/) - Research group for inverse problems in geophysics which I helped establish
+* [Tesseroids](https://github.com/leouieda/tesseroids) - Forward modeling of gravity fields in spherical coordinates
+* [xlandsat](https://github.com/compgeolab/xlandsat) - A Python package for handling Landsat scenes from EarthExplorer with xarray
 
 ## Misc
 
